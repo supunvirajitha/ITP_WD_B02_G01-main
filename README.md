@@ -15,6 +15,6 @@ Please go under edit and edit this file as needed for your project
 
 
 #### Brief Description of Project - Developing an ERP system for Glan International
-#### Technologies used - MERN Stack 
+#### Technologies used - MERN Stack   
 
    
